@@ -1,5 +1,7 @@
 # Housing Price Prediction using Linear Regression
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This repository contains a simple Python script to perform linear regression and predict housing prices based on the size of the house (lotsize). The dataset used in this example is stored in a CSV file named `Housing.csv`.
 
 ## Requirements
@@ -60,9 +62,3 @@ You can customize the script to work with your own dataset by replacing the `Hou
 
 If you find any issues with the code or want to add improvements, feel free to create a pull request. Contributions are always welcome!
 
-## License
-
-This project is licensed under the MIT License. Feel free to use and modify the code as per the terms of the license.
-
----
-**Note:** Make sure to replace "your-username" in the repository link with your GitHub username if you plan to clone the repository.
